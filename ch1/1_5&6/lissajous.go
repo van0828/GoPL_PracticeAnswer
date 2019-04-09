@@ -1,4 +1,4 @@
-package __5_6
+package main
 
 import (
 	"image"
